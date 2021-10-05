@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Egan Branigan](https://www.reddit.com/r/DnD/comments/7yxkrj/art_tiefling_wizard/)
